@@ -1,2 +1,13 @@
 body {color:green;
+    background-color: tan;
 font-family: cursive}
+
+.main {background-color: aqua;
+color: magenta;}
+
+#one {color:red;}
+#two {background-color: purple;}
+#three {font-family:fantasy}
+#four {font-size: 40px;
+color: orange; background-color: lemonchiffon}
+#five {font-weight: 700px;}
